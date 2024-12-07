@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=UncensoredUsers&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- Email: admin@anonymous-x.site
+- Email: uncensoredgamescript@gmail.com
 
 ---
 
