@@ -1,6 +1,7 @@
 # 👋 Hello, I'm [UncensoredUsers]!
 
 Welcome to my GitHub profile! Here's a little bit about me:
+I'm Korean
 
 ## 🌱 I'm currently learning
 - Web development (React, Node.js)
